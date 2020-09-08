@@ -14,7 +14,7 @@ public class QuadradoDeQuatro {
             Double.parseDouble(vlrs[2])*Double.parseDouble(vlrs[2]),
             Double.parseDouble(vlrs[3])*Double.parseDouble(vlrs[3])
         };
-
+        
         JOptionPane.showMessageDialog(null, "os valores são: "+res[0]+", "+res[1]+", "+res[2]+" e "+res[3]);
 	}	
 }
